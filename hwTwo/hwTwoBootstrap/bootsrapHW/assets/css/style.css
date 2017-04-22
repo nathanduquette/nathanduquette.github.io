@@ -1,0 +1,198 @@
+.navbar {
+    border-radius: 0px;
+}
+
+.navbar-brand,.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+	font-size: 30px; 
+	font-weight: 700;
+	/*
+	padding:45px 0 55px 150px;
+	*/
+	background-color: #4aaaa5;
+	color:#777;
+	max-width: 960px;
+}
+
+.header-container {
+	max-width: 970px;
+	padding-right: 0;
+}
+
+.navbar-right>li>a:last-of-type {
+	padding-right: 0;
+}
+
+
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  	font-size: 18px;
+  	line-height: 34px;
+	/*
+	background-color: #80abaa;	
+	background:url(../images/diagmonds-light.png);
+	*/
+
+	/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+
+	background-color: #80abaa;
+	background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+	color: #777;
+	height: calc(100vh - 60px);
+	position: relative;
+}
+
+
+
+h1,
+h2,
+h3 {
+	color: #4aaaa5;	
+	font-weight: 700;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+.pic {
+	margin: 0 20px 0 0;
+}
+
+#contact {
+	margin: 15px 0 0 40px;
+}
+
+#submit {
+	margin: 0 0 15px 40px;
+	background-color: #4aaaa5;
+}
+
+#main {
+}
+
+mark{
+	background-color: #4aaaa5;
+	max-width-width: 200px;
+	
+
+
+}
+
+
+.img-text {
+	
+	margin: -65px 0 0 0px;
+	width: 200px;
+	text-align: center;
+	/*z-index: 3;*/
+
+}
+
+
+section {
+	background-color: #fff;
+	display: block;
+	padding: 10px 10px 10px 10px:;
+}
+
+label,
+input[type=text],
+input[type=email],
+textarea {
+  display: ;
+  width: 94%;
+}
+
+.sidebar {
+	background-color: #fff;
+	margin: ;
+	padding: ;
+}
+
+.area {
+	background-color: #fff;
+	margin: ;
+	padding: ;
+}
+
+.bulk {
+	margin: auto;
+}
+
+.panel-title {
+	color: #4aaaa5;
+}
+
+
+
+.jerk {
+	width: 62px !important;
+	height: 62px !important;
+}
+
+.connect {
+	text-align: center;
+	padding: 0px 0 20px 0;
+}
+.connect a {
+	text-decoration: none;
+}
+
+ul,
+li {
+	list-style: none;
+}
+
+.bottom {
+	position: ;
+	bottom: 0;
+	width: 100%;
+	background-color: #666;
+	text-align: center;
+	height: 60px;
+	line-height: 60px;
+	color: #fff;
+	margin: auto;
+	padding-top: 60;
+
+}
+
+
+.page-footer, .container:after {
+	height: 60px;
+}
+
+.container {
+	margin-bottom: -60px;
+	min-height: 100%;
+}
+
+.container:after {
+	content: "";
+	display: block;
+}
+
+/*test
+
+.posRel{
+    position:relative;
+}
+.textWrap{
+    position:relative;
+}
+.picTitle{
+    font-size: 15px;
+     position: absolute;
+     bottom: 10px;
+     width: 100%;
+     padding: 5px;
+     margin-bottom: 0;
+     font-weight: 200;
+     line-height: 20px;
+     color: #fff;
+     text-align: center;
+     background: #4aaaa5 ;
+     border-bottom: 0;
+}
+*/
