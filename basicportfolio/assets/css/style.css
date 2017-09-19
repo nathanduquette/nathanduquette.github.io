@@ -68,12 +68,9 @@ h2 {
 	background-color: #4aaaa5;
 }
 
-#main {
-}
-
 mark{
 	background-color: #4aaaa5;
-	max-width-width: 200px;
+	max-width: 200px;
 	
 
 
@@ -93,27 +90,26 @@ mark{
 section {
 	background-color: #fff;
 	display: block;
-	padding: 10px 10px 10px 10px:;
+	padding: 10px 10px 10px 10px;
 }
 
 label,
 input[type=text],
 input[type=email],
 textarea {
-  display: ;
   width: 94%;
 }
 
 .sidebar {
 	background-color: #fff;
-	margin: ;
-	padding: ;
+	/* margin: ;
+	padding: ; */
 }
 
 .area {
 	background-color: #fff;
-	margin: ;
-	padding: ;
+	/* margin: ;
+	padding: ; */
 }
 
 .bulk {
@@ -145,7 +141,6 @@ li {
 }
 
 .bottom {
-	position: ;
 	bottom: 0;
 	width: 100%;
 	background-color: #666;
