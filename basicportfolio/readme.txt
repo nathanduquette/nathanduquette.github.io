@@ -1,1 +1,3 @@
-a simple bootstrap portfolio.
+a simple bootstrap portfolio page.
+ 
+ 

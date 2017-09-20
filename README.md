@@ -1,3 +1,2 @@
 # Bootstrap-Portfolio
-
-a simple portfolio page.
+a basic bootstrap portfolio
