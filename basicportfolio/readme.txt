@@ -1,8 +1,1 @@
-
-
-========================================================
- This pattern is downloaded from www.subtlepatterns.com 
- If you need more, that's where to get'em.
- ========================================================
- 
- 
+a simple bootstrap portfolio.
